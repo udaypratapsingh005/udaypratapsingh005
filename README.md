@@ -39,4 +39,5 @@ Goal: Become a strong full-stack developer with solid fundamentals.
 
 ## 📫 Let's Connect
 
-LinkedIn: https://linkedin.com/in/your-link
+LinkedIn:www.linkedin.com/in/uday-pratap-singh-18b380398
+Gmail: sudaypratapsingh005@gmail.com
