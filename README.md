@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Uday Pratap Singh 👋
 
-<!--
-**udaypratapsingh005/udaypratapsingh005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer focused on building clean, structured and scalable UI projects.
 
-Here are some ideas to get you started:
+I’m currently strengthening my core fundamentals in HTML, CSS and JavaScript — with a strong focus on code readability, maintainability, and real-world development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I Care About
+
+- Writing clean and understandable code
+- Building responsive and structured layouts
+- Thinking beyond “it works” — considering scalability & edge cases
+- Improving project architecture step by step
+
+---
+
+## 🛠 Tech Stack
+
+HTML5 • CSS3 • JavaScript • Git • GitHub  
+(React – Currently Learning & Exploring)
+
+---
+
+## 📌 Selected Projects
+
+🔹 Travel Landing Page – Structured booking UI  
+🔹 Login & Registration UI – Form handling & layout logic  
+🔹 Profile Card UI – Clean card-based design system  
+
+---
+
+## 📈 Current Focus
+
+Moving from small UI projects → structured frontend applications  
+Goal: Become a strong full-stack developer with solid fundamentals.
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn: https://linkedin.com/in/your-link
