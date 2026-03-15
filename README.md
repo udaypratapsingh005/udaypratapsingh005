@@ -15,10 +15,8 @@ I’m currently strengthening my core fundamentals in HTML, CSS and JavaScript �
 
 ---
 
-## 🛠 Tech Stack
-
-HTML5 • CSS3 • JavaScript • Git • GitHub  
-(React – Currently Learning & Exploring)
+💻 Tech Stack:
+CSS3 HTML5 JavaScript PowerShell Vercel Netlify Render Express.js Green Sock JWT MUI NPM NodeJS React React Router React Hook Form Redux TailwindCSS Vite Bun MongoDB Framer Git GitHub
 
 ---
 
